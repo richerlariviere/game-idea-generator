@@ -1,0 +1,206 @@
+[
+{
+	"id": "1",
+	"name": "indie"
+},
+{
+	"id": "2",
+	"name": "adventure"
+},
+{
+	"id": "3",
+	"name": "RPG"
+},
+{
+	"id": "4",
+	"name": "RTS"
+},
+{
+	"id": "5",
+	"name": "strategy"
+},
+{
+	"id": "6",
+	"name": "MMORPG"
+},
+{
+	"id": "7",
+	"name": "racing"
+},
+{
+	"id": "8",
+	"name": "FPS"
+},
+{
+	"id": "9",
+	"name": "action"
+},
+{
+	"id": "10",
+	"name": "simulator"
+},
+{
+	"id": "11",
+	"name": "platformer"
+},
+{
+	"id": "12",
+	"name": "2D"
+},
+{
+	"id": "13",
+	"name": "3D"
+},
+{
+	"id": "14",
+	"name": "8bit"
+},
+{
+	"id": "15",
+	"name": "sandbox"
+},
+{
+	"id": "16",
+	"name": "puzzle"
+},
+{
+	"id": "17",
+	"name": "FPS-RPG"
+},
+{
+	"id": "18",
+	"name": "hacking"
+},
+{
+	"id": "18",
+	"name": "management"
+},
+{
+	"id": "19",
+	"name": "detective"
+},
+{
+	"id": "20",
+	"name": "history"
+},
+{
+	"id": "21",
+	"name": "Civilization"
+},
+{
+	"id": "22",
+	"name": "FIFA"
+},
+{
+	"id": "23",
+	"name": "Minecraft"
+},
+{
+	"id": "24",
+	"name": "Left 4 Dead"
+},
+{
+	"id": "25",
+	"name": "Job Interview"
+},
+{
+	"id": "26",
+	"name": "Duke Nukem"
+},
+{
+	"id": "27",
+	"name": "Counter-Strike"
+},
+{
+	"id": "28",
+	"name": "Half-Life"
+},
+{
+	"id": "29",
+	"name": "deathmatch"
+},
+{
+	"id": "30",
+	"name": "Angry Birds"
+},
+{
+	"id": "31",
+	"name": "Worms"
+},
+{
+	"id": "32",
+	"name": "evolution"
+},
+{
+	"id": "33",
+	"name": "laborant"
+},
+{
+	"id": "34",
+	"name": "manure-shoveling"
+},
+{
+	"id": "35",
+	"name": "chess"
+},
+{
+	"id": "36",
+	"name": "Monopoly"
+},
+{
+	"id": "37",
+	"name": "soap opera"
+},
+{
+	"id": "38",
+	"name": "bicycling"
+},
+{
+	"id": "39",
+	"name": "monster truck"
+},
+{
+	"id": "40",
+	"name": "western"
+},
+{
+	"id": "41",
+	"name": "ninja"
+},
+{
+	"id": "42",
+	"name": "orc"
+},
+{
+	"id": "43",
+	"name": "family raising"
+},
+{
+	"id": "44",
+	"name": "amoeba"
+},
+{
+	"id": "45",
+	"name": "tax calculation"
+},
+{
+	"id": "46",
+	"name": "mayor"
+},
+{
+	"id": "47",
+	"name": "transportation"
+},
+{
+	"id": "48",
+	"name": "war"
+},
+{
+	"id": "49",
+	"name": "photography"
+},
+{
+	"id": "50",
+	"name": "stealth"
+}
+]
