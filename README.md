@@ -21,4 +21,4 @@ and so on...
 
 ## Credits
 
-Largely inspired by [nexthitgame.com](nexthitgame.com), a website owned by [@laurilii](https://twitter.com/laurilii) and [@unzyme](https://twitter.com/unzyme)
+Largely inspired by [nexthitgame.com](http://www.nexthitgame.com), a website owned by [@laurilii](https://twitter.com/laurilii) and [@unzyme](https://twitter.com/unzyme)
